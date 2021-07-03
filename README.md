@@ -1,3 +1,3 @@
 # kahan_sum
 
-Test implemenations in C++ for floating-point sums.
+Test implementaions for floating-point sums in C++.
